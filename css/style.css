@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.icon-area ul{
+    list-style: none;
+   
+
+}
+
+.icon-area ul li{
+    display: inline-block;
+}
+
+.icon-area ul li a{
+    
+    color: #090909;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+.icon-area ul li a:hover{
+    background: cadetblue;
+    color: crimson;
+    border-radius: 40%;
+}
+
+.icon-area2 ul{
+    list-style: none;
+   
+
+}
+
+.icon-area2 ul li{
+    display: inline-block;
+}
+
+.icon-area2 ul li a{
+    background:orange;
+    color:#808080;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 40px;
+    border-radius: 0px;
+}
+
+.icon-area2 ul li a:hover{
+    background: cadetblue;
+    color:yellow;
+    border-radius: 40%;
+}
+
+.icon-area3 ul{
+    list-style: none;
+   
+
+}
+
+.icon-area3 ul li{
+    display: inline-block;
+}
+
+.icon-area3 ul li a{
+    background: blue;
+    color: #DE3163;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 50px;
+    border-radius: 10px;
+}
+
+.icon-area3 ul li a:hover{
+    background:tomato;
+    color: darkcyan;
+    border-radius: 40%;
+}
+
+.icon-area4 ul{
+    list-style: none;
+   
+
+}
+
+.icon-area4 ul li{
+    display: inline-block;
+}
+
+.icon-area4 ul li a{
+    background:peru;
+    color: #00FFFF;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 60px;
+    border-radius: 30px;
+}
+
+.icon-area4 ul li a:hover{
+    background:brown;
+    color: royalblue;
+    border-radius: 40%;
+}
+
+.icon-area5 ul{
+    list-style: none;
+   
+
+}
+
+.icon-area5 ul li{
+    display: inline-block;
+}
+
+.icon-area5 ul li a{
+    background: mediumturquoise;
+    color:#581845ff;
+    padding: 20px 30 px;
+    display: block;
+    font-size: 80px;
+    border-radius: 10px;
+}
+
+.icon-area5 ul li a:hover{
+    background:ivory;
+    color:coral;
+    border-radius: 40%;
+}
